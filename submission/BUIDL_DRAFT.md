@@ -35,7 +35,7 @@ python3.12 -m venv .venv && .venv/bin/pip install "openminion>=0.1.24" "pytest>=
 ```
 
 - **Repository:** https://github.com/HindsightWise/minionbench-ops-openminion
-- **Demo Video (1–5 min):** https://youtu.be/minionbench-ops-openminion-demo
+- **Demo Video (H.264 MP4):** https://github.com/HindsightWise/minionbench-ops-openminion/raw/main/outputs/demo_walkthrough.mp4
 - **Generated Verification Artifacts:** `outputs/live_model_run_receipt.json`, `outputs/building_blocks_tested.json`, `BUILDING_BLOCKS_TESTED.md`, and `WHAT_WE_LEARNED.md`.
 
 ## Roadmap & Milestones

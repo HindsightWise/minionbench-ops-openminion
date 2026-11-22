@@ -7,7 +7,7 @@
   "tagline": "OpenMinion 0.1.24 Release Triage Guard & 6-Probe Empirical Runtime Diagnostic Workbench for Cortensor Builders",
   "prior_submissions": 0,
   "github_url": "https://github.com/HindsightWise/minionbench-ops-openminion",
-  "video_url": "https://youtu.be/minionbench-ops-openminion-demo",
+  "video_url": "https://github.com/HindsightWise/minionbench-ops-openminion/raw/main/outputs/demo_walkthrough.mp4",
   "ecosystem_tags": ["openminion", "cortensor", "python-sdk", "agent-diagnostics", "release-triage"],
   "body_markdown_path": "submission/BUIDL_DRAFT.md",
   "deliverables": [

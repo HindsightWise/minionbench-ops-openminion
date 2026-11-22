@@ -28,7 +28,7 @@ python3 /Users/zerbytheboss/.gemini/config/skills/dorahacks-builder/scripts/dora
   --body-file submission/BUIDL_DRAFT.md \
   --prior-submissions 0 \
   --github-url "https://github.com/HindsightWise/minionbench-ops-openminion" \
-  --video-url "https://youtu.be/minionbench-ops-openminion-demo" \
+  --video-url "https://github.com/HindsightWise/minionbench-ops-openminion/raw/main/outputs/demo_walkthrough.mp4" \
   --require-github \
   --require-video \
   --json
